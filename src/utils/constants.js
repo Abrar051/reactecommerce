@@ -1,3 +1,4 @@
+///this is the javascript file for all products
 import React from 'react'
 import { GiCompass, GiDiamondHard, GiStabbedNote } from 'react-icons/gi'
 export const links = [
