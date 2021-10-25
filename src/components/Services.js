@@ -8,13 +8,11 @@ const Services = () => {
       <div className="section-center">
         <article className="header">
           <h3>
-            Lorem Ipsum <br />
-            Lorem ipsum dolor sit.
+            Choose furniture according to your choice <br />
+            
           </h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
-            nesciunt delectus, veniam odio voluptatem iste dolorem aliquam sint
-            corporis totam.
+            Preimum grade furniture, home decor and household services
           </p>
         </article>
         <div className="services-center">

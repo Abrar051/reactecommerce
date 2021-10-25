@@ -9,12 +9,10 @@ const Hero = () => {
     <Wrapper className="section-center">
       <article className="content">
         <h1>
-          Lorem Ipsum <br />
-          dolor sit amet
+          Buy premium quality furniture <br />
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum est vel
-          consequatur beatae natus. Quasi, dolorem! A corrupti cumque modi!
+          Welcome to our furniture mart. Buy premium furnitures from our shop
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now

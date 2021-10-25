@@ -15,10 +15,7 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            iure vel tempora laudantium molestias earum unde eius eum omnis
-            nemo. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Excepturi, repellat.
+          Preimum grade furniture, home decor and household services
           </p>
         </article>
       </Wrapper>
