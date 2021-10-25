@@ -10,6 +10,7 @@ const Hero = () => {
       <article className="content">
         <h1>
           Buy premium quality furniture <br />
+          Copyright Shahriar
         </h1>
         <p>
           Welcome to our furniture mart. Buy premium furnitures from our shop
